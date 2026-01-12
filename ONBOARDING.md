@@ -16,6 +16,7 @@
 * Follow folder structure
 * Commit regularly
 * Do not delete graded work
+* No datasets larger than 100MB
 * Every assignment must have at least one meaningful commit
 * Commits must describe what changed and why
 
