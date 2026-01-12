@@ -20,6 +20,7 @@
 * Commits must describe what changed and why
 
 ## Folder Structure
+.
 mixtree-data-first/
 │
 ├── README.md
